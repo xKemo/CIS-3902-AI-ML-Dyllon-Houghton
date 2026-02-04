@@ -13,3 +13,7 @@ This repository contains coursework and projects for CIS 3902.
 <p>
   <a href="https://github.com/xKemo/CIS-3902-AI-ML-Dyllon-Houghton/commit/aff546321d93c24d80a009fa1b667351ab35cc5a"> Reading Files in Colab with Jupyter Notebook</a>
 </p>
+
+<p>
+  <a href="https://colab.research.google.com/github/plthomps/CIS-3902-Data-Mining/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb"> Linear Regressions</a>
+</p>

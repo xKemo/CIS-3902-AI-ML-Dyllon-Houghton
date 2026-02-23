@@ -20,3 +20,6 @@ This repository contains coursework and projects for CIS 3902.
 <p>
   <a href="https://colab.research.google.com/github/plthomps/CIS-3902-Data-Mining/blob/main/regularization.ipynb/#scrollTo=RHjfR-a5o9uA"> Regularization</a>
 </p>
+<p>
+  <a href= "https://colab.research.google.com/github/plthomps/CIS-3902-Data-Mining/blob/main/Data_Cleaning_Exercise.ipynb/"> Data Cleaning in Python</a>
+</p>

@@ -24,5 +24,5 @@ This repository contains coursework and projects for CIS 3902.
   <a href= "https://colab.research.google.com/drive/10a1FZ3LBW-MZB3Z9Kr6VF1ik-fujXqvS#scrollTo=OkAJXjMuuMRW"> Data Cleaning in Python</a>
 </p>
 <p>
-  <a href="https://colab.research.google.com/drive/1ry4-FWbxm5fRznp3AIpfI0WbmqiOojC8?usp=sharing"> Data Cleaning Exercise</a>
+  <a href="https://colab.research.google.com/drive/1ry4-FWbxm5fRznp3AIpfI0WbmqiOojC8#scrollTo=Q3zDqR7Z0V3p"> Data Cleaning Exercise</a>
 </p>

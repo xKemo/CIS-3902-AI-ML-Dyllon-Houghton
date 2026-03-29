@@ -26,3 +26,6 @@ This repository contains coursework and projects for CIS 3902.
 <p>
   <a href="https://colab.research.google.com/drive/1ry4-FWbxm5fRznp3AIpfI0WbmqiOojC8#scrollTo=Q3zDqR7Z0V3p"> Data Cleaning Exercise</a>
 </p>
+<p>
+  <a href="https://colab.research.google.com/drive/1PZxvnd6XC3wQ3fqf3sUuH7Gj9M8rtqDL"> Autoviz</a>
+</p>

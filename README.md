@@ -32,6 +32,3 @@ This repository contains coursework and projects for CIS 3902.
 <p>
   <a href="https://colab.research.google.com/drive/1A0_eoT9SXuBkn0-6dkVWyYcQ2jmHzeuD"> Random Forest Crime Assignment</a>
 </p>
-<p>
-  <a href="https://1drv.ms/w/c/cde57bc293222f20/IQCubc0TGppCRLxyAvFIpaZpAWAXefClrK-q24-xF_cTV3s"> Restaurant website plan</a>
-</p>

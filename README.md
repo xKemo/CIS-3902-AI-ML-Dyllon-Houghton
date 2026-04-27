@@ -32,3 +32,6 @@ This repository contains coursework and projects for CIS 3902.
 <p>
   <a href="https://colab.research.google.com/drive/1A0_eoT9SXuBkn0-6dkVWyYcQ2jmHzeuD"> Random Forest Crime Assignment</a>
 </p>
+<p>
+  <a href="https://colab.research.google.com/drive/1gy49eR5PKLwNdVcObrsrWJunKZZ7PUIj?usp=sharing"> Customer Segmentation Using Clustering</a>
+</p>
